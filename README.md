@@ -26,13 +26,9 @@ From your command line, first clone this repo:
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+$ https://github.com/SeniorDeveloper47/React_Ecommerce_site.git
 
-# Go into the repository
-$ cd multimart-react-ecommerce
 
-# Remove current origin repository
-$ git remote remove origin
 
 ```
 
